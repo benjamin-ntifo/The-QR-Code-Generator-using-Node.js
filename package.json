@@ -1,0 +1,19 @@
+{
+  "name": "2.4-qr-code-project",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "ben ntifo",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@inquirer/prompts": "^8.7.5",
+    "fs": "^0.0.1-security",
+    "inquirer": "^9.2.16",
+    "qr-image": "^3.2.0"
+  },
+  "devDependencies": {}
+}
